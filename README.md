@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @osmanbugraozyurt
+- 👀 I’m interested in SQL & Python
+- 🌱 I’m currently learning SQL
+- 📫 How to reach me bgrozyrt@gmail.com
