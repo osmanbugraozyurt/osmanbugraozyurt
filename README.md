@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @osmanbugraozyurt
-- 👀 I’m interested in SQL & Python
+- 👀 I’m interested in Business Intelligence
 - 🌱 I’m currently learning SQL
 - 📫 How to reach me bgrozyrt@gmail.com
